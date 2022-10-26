@@ -11,9 +11,8 @@
 
 <img align="right" alt="Coding" width="300" style="border-radius:10px" src="https://github.com/shwetasng/shwetasng/blob/main/gif2.gif">
 
-- 🌱 I’m currently learning **
-- ⚡ Interested in **
-- ❤️ Love creating **
+- 🌱 I’m currently learning *JAVA, Web-development*
+- 🏳️ Part of *TECHNICAL core committee* at UPES-CSA and *DESIGN core committee* at UPES-ACM
 - 📬 Contact me at *shwetasng.work@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
@@ -36,19 +35,8 @@
 [![@shwetasng's Holopin board](https://holopin.io/api/user/board?user=shwetasng)](https://holopin.io/@shwetasng)
 
 
-<!--
-**shwetasng/shwetasng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 ## Contribution Graph
 ![snake gif](https://github.com/shwetasng/shwetasng/blob/output/github-contribution-grid-snake.gif)

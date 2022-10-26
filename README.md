@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://github.com/Shwetasng/Shwetasng/blob/main/20221019_014220.jpg)](https://Shwetasng.io)
+[![MasterHead](https://github.com/Shwetasng/Shwetasng/blob/main/head.jpg)](https://Shwetasng.io)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>, I'm Shweta Singh</h1>
 <h3 align="center">2nd Year BTech Computer Science specialization in DevOps Student at UPES.<br>Technical Core Committee Member at UPES Cloud Security Alliance.</h3>

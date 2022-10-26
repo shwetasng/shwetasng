@@ -39,4 +39,9 @@
 
 
 ## Contribution Graph
-![snake gif](https://github.com/shwetasng/shwetasng/blob/output/github-contribution-grid-snake.gif)
+
+<p align="left">
+  <img src="https://github.com/shwetasng/shwetasng/raw/output/github-contribution-grid-snake.svg"
+alt="snake"></center>
+</p>
+

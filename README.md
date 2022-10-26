@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>, I'm Shweta Singh</h1>
-<h3 align="center">2nd Year BTech Computer Science specialization in DevOps Student at UPES.<br>Technical Core Committee Member at UPES Cloud Security Alliance.</h3>
+<h3 align="center">2nd Year BTech Computer Science specialization in DevOps Student at UPES.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetasng&label=Profile%20views&color=0e75b6&style=flat" alt="shwetasng" /> </p>
 
@@ -19,7 +19,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shweta-singh-2b4a82225/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shweta Singh" height="30" width="40" /></a>
+<a href="https://instagram.com/shwetasng17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shwetasng17" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shwetasng17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shwetasng17" height="30" width="40" /></a>
 
+
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

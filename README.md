@@ -32,7 +32,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwetasng&show_icons=true&theme=midnight-purple)
 
-[![@shwetasng's Holopin board](https://holopin.io/api/user/board?user=shwetasng)](https://holopin.io/@shwetasng)
+[![@shwetasng's Holopin board](https://holopin.me/shwetasng)](https://holopin.io/@shwetasng)
+
 
 
 

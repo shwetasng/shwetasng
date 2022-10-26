@@ -30,8 +30,8 @@
 
 <p> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shwetasng&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Shwetasng" width="400"/> &ensp; &ensp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetasng&layout=compact&theme=midnight-purple" alt="Shwetasng" width="400"/></p>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwetasng&show_icons=true&theme=midnight-purple)
+
 [![@shwetasng's Holopin board](https://holopin.io/api/user/board?user=shwetasng)](https://holopin.io/@shwetasng)
 
 

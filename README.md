@@ -1,13 +1,13 @@
 
 
-[![MasterHead](https://github.com/Shwetasng/Shwetasng/blob/main/head1.png)](https://Shwetasng.io)
+[![MasterHead](https://github.com/Shwetasng/Shwetasng/blob/main/head2.png)](https://Shwetasng.io)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>, I'm Shweta Singh</h1>
 <h3 align="center">2nd Year BTech Computer Science specialization in DevOps Student at UPES.<br>Technical Core Committee Member at UPES Cloud Security Alliance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetasng&label=Profile%20views&color=0e75b6&style=flat" alt="shwetasng" /> </p>
 
-<img align="right" alt="Coding" width="370" style="border-radius:5px" src="https://github.com/Shwetasng/Shwetasng/blob/main/20221002_231734.png">
+<img align="right" alt="Coding" width="370" style="border-radius:5px" src="https://github.com/Shwetasng/Shwetasng/blob/main/head1.png">
 
 - 🌱 I’m currently learning **
 - ⚡ Interested in **

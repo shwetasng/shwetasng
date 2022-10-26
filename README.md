@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://github.com/Shwetasng/Shwetasng/blob/main/head3.png)](https://Shwetasng.io)
+[![MasterHead](https://github.com/Shwetasng/Shwetasng/blob/main/head4.png)](https://Shwetasng.io)
 
 
 

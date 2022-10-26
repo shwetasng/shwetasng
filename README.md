@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetasng&label=Profile%20views&color=0e75b6&style=flat" alt="shwetasng" /> </p>
 
-<img align="right" alt="Coding" width="370" style="border-radius:5px" src="https://github.com/Shwetasng/Shwetasng/blob/main/head1.png">
+<img align="right" alt="Coding" width="370" style="border-radius:5px" src="https://github.com/Shwetasng/Shwetasng/blob/main/quote2.png">
 
 - 🌱 I’m currently learning **
 - ⚡ Interested in **

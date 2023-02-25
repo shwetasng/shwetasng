@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning *JAVA, Web-development*
 - 🏳️ Part of *TECHNICAL core committee* at UPES-CSA and *DESIGN core committee* at UPES-ACM
-- 📬 Contact me at *shwetasng.work@gmail.com*
+- 📬 Contact with me at *shwetasng.work@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

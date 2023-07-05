@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://github.com/Shwetasng/Shwetasng/blob/main/head.png)](https://Shwetasng.io)
+[![MasterHead](https://github.com/Shwetasng/Shwetasng/blob/main/head2.png)](https://Shwetasng.io)
 
 
 
@@ -33,12 +33,13 @@
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwetasng&show_icons=true&theme=midnight-purple)-->
 
-[![@shwetasng's Holopin board](https://holopin.me/shwetasng)](https://holopin.io/@shwetasng)
+<!--[![@shwetasng's Holopin board](https://holopin.me/shwetasng)](https://holopin.io/@shwetasng)-->
 
 
 
 
 
+<br>
 
 ## Contribution Graph
 

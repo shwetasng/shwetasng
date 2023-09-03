@@ -16,7 +16,8 @@
 - 🏳️ Part of *TECHNICAL core committee* at UPES-CSA and *DESIGN core committee* at UPES-ACM
 - 📬 Contact with me at *shwetasng.work@gmail.com*
 
-<img align="right" height="200" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"  />
+<!--<img align="right" height="200" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"  />-->
+<img align="right" height="200" src="https://media.giphy.com/media/pc18LSo4GIDndzBjja/giphy.gif"  />
 
 <h3 align="left">🔗Connect with me:</h3>
 

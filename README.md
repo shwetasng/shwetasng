@@ -13,7 +13,7 @@
 <!--<img align="right" alt="Coding" width="300" style="border-radius:10px" src="https://github.com/shwetasng/shwetasng/blob/main/gif2.gif">-->
 
 - 🌱 I’m currently learning *JAVA, Web-development*
-- 🏳️ Part of *TECHNICAL core committee* at UPES-CSA and *DESIGN core committee* at UPES-ACM
+- 🏳️ Part of *AWSUG Dehradun* and Student Developer at *Open Community Upes*
 - 📬 Contact with me at *shwetasng.work@gmail.com*
 
 <!--<img align="right" height="200" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"  />-->

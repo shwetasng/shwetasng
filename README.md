@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>Shweta here</h1>
-<h3 align="center">3rd Year BTech Computer Science student with specialiazation in DevOps at UPES.</h3>
+<h3 align="center">Final Year BTech Computer Science student with specialiazation in DevOps at UPES.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetasng&label=Profile%20views&color=0e75b6&style=flat" alt="shwetasng" /> </p>
